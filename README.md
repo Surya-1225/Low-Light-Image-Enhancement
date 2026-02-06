@@ -9,11 +9,15 @@ The system displays the original and enhanced frames side-by-side along with rea
 🚀 Features
 
 📷 Real-time webcam video capture
+
 🌗 Contrast enhancement using CLAHE
+
 ☀️ Brightness adjustment using Gamma Correction
+
 📊 Quality evaluation using:
     PSNR (Peak Signal-to-Noise Ratio)
     SSIM (Structural Similarity Index)
+    
 🖥️ Side-by-side comparison display
 ==============================================================================================================================================================================================================
 🧠 Working Principle:
