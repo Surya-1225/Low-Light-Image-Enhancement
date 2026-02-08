@@ -3,8 +3,8 @@ Real-Time Image Enhancement using CLAHE and Gamma Correction
 
 This project implements a real-time image enhancement system using classical image processing techniques.
 It captures live video from a webcam, enhances each frame using contrast and brightness adjustments, and evaluates the enhancement quality using PSNR and SSIM metrics.
-
 The system displays the original and enhanced frames side-by-side along with real-time quality measurements.
+
 ==============================================================================================================================================================================================================
 🚀 Features
 
