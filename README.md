@@ -5,7 +5,7 @@ This project implements a real-time image enhancement system using classical ima
 It captures live video from a webcam, enhances each frame using contrast and brightness adjustments, and evaluates the enhancement quality using PSNR and SSIM metrics.
 The system displays the original and enhanced frames side-by-side along with real-time quality measurements.
 
-============================================================================
+===========================================================================
 
 🚀 Features
 
@@ -21,7 +21,7 @@ The system displays the original and enhanced frames side-by-side along with rea
     
 🖥️ Side-by-side comparison display
 
-============================================================================
+===========================================================================
 
 🧠 Working Principle:
 1️⃣ Contrast Enhancement (CLAHE)
@@ -38,7 +38,7 @@ The system displays the original and enhanced frames side-by-side along with rea
         PSNR measures pixel-level difference between original and enhanced images
         SSIM evaluates structural similarity
         
-============================================================================
+===========================================================================
 
 🛠️ Technologies Used
       Python
@@ -47,14 +47,14 @@ The system displays the original and enhanced frames side-by-side along with rea
       scikit-image
       Math library
       
-============================================================================
+===========================================================================
 
 📈 Output
       Left side → Original Frame
       Right side → Enhanced Frame
       Top overlay → PSNR and SSIM values
       
-============================================================================
+===========================================================================
 
 📊 Sample Enhancement Pipeline:
 
