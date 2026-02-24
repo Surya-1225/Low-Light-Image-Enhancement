@@ -72,7 +72,7 @@ The system displays the original and enhanced frames side-by-side along with rea
                                       Display Comparison
 
 
-============================================================================
+===========================================================================
 
 🎯 Applications:
       Low-light video enhancement
@@ -80,7 +80,7 @@ The system displays the original and enhanced frames side-by-side along with rea
       Computer vision preprocessing pipeline
       Academic demonstration of classical image enhancement techniques
       
-============================================================================
+===========================================================================
 
 Since the goal is enhancement (not reconstruction), PSNR and SSIM values may decrease even if visual quality improves. These metrics should be interpreted carefully.
 
